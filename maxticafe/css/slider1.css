@@ -1,0 +1,294 @@
+ ul li{
+  list-style: none;
+}
+
+
+
+.ul_slidershow{
+  width: 100%;
+  position: absolute;
+}
+
+.ul_slider li, ul{
+  width: 100%;
+}
+
+.ul_slider li{
+  overflow: hidden;
+}
+
+.ul_slider li img{
+
+  width: 100%;
+  z-index:3;
+}
+
+.ul_slider .boton{
+   background-color: rgba(0, 0, 0, .8);
+  position: absolute;
+  top: 300px; 
+  right: 302px;
+  padding: 15px 10px;
+  color: #FFCC00;
+  z-index: 1;
+  border-radius: 32px;
+  width: 332px;
+  height: 52px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+
+}
+.ul_slider .boton:hover{
+  background-color: #3B1A0A;
+  color:white;
+  
+}
+.ul_slider .boton1{
+   background-color: rgba(0, 0, 0, .8);
+  position: absolute;
+  top: 300px;
+  left: 150px;
+  padding: 15px 10px;
+  color: #FFCC00;
+  z-index: 1;
+  border-radius: 32px;
+  width: 332px;
+  height: 52px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+
+}
+.ul_slider .boton1:hover{
+  background-color: #3B1A0A;
+  color:white;
+  
+}
+
+
+
+.ul_slider .caption{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  padding: 15px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+  color: #fff;
+  z-index: 1;
+}
+
+.left, .right{
+
+  display: flex;
+  align-items: center;
+  padding: 10px 11px;
+  border-radius: 100%;
+  color: #fff;
+  font-size: 17px;
+  cursor: pointer;
+  z-index: 2;
+  position: absolute;
+}
+
+.left{
+  position: absolute;
+  top: 203px;
+  left: 20px;
+  background: black;
+  opacity: 53%;
+
+}
+
+.right{
+  position: absolute;
+  right: 20px;
+  top: 203px;
+  background: black;
+  opacity: 53%;
+
+}
+
+
+.div_slider img{
+  align-content: center;
+-webkit-transform: scale(1.30, 2);
+}
+
+.g-recaptcha{
+  position: absolute;
+  left: 78%;
+  top: 90%;
+}
+
+#cora{
+  width: 43px;
+  height: 30px;
+}
+
+#turron{
+  position: absolute;
+  top: 10%;
+  left: 30px;
+  padding: 0px;
+  margin: 0px;
+  z-index: 1;
+  color: white;
+  font-family: Verdana, Geneva, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 68px;
+  line-height: 50px;
+  letter-spacing: 0px;
+  animation-duration: 1s;
+  animation-delay: 0.6s;
+  
+}
+
+
+
+#contactenos{
+
+  color: white;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size:24px;
+  font-weight:530;
+  font-style:normal;
+  position: absolute;
+  right: 225px;
+  top: 55%;
+  animation-delay: 2s;
+  
+}
+#como{
+
+  color: white;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size:24px;
+  font-weight:530;
+  font-style:normal;
+  position: absolute;
+  right: 225px;
+  top: 59%;
+ 
+  animation-delay: 2.5s;
+  
+
+
+}
+
+#produ{
+  color: white;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size:24px;
+  font-weight:530;
+  font-style:normal;  
+  position: absolute;
+  right: 225px;
+  top: 63%;
+
+  animation-delay: 3s;
+ 
+
+}
+
+#distri{
+ font-family: 'Ubuntu Condensed', sans-serif;
+ font-size: 85px;
+ font-weight: 900;
+ position: relative;
+ right: -24%;
+ top: -25%;
+  
+}
+#sea{
+  color: white;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size:70px;
+  font-weight:530;
+  font-style:normal; 
+  position: relative;
+  right: -16.5%;
+  top:-24%;
+}
+
+.nuestrosabor h1{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-style: normal;
+  font-weight: 3;
+  font-size: 50px;
+  display: inline-block;
+  position: absolute;
+  padding-top: 42px;
+  color: #3b1a0a;
+  left: 40%;
+}
+
+.nuestrosabor h1::after,h1::before{
+
+  content:'';
+  position: absolute;
+  width: 415px;
+  height: 5px;
+  background-color: #F6CD4A;
+  top: 78px;
+}
+
+.nuestrosabor h1::before{
+  position: absolute;
+  right: 350px;
+}
+
+.nuestrosabor h1::after{
+  position: absolute;
+  left: 350px;
+}
+.avion{
+  right: -3%;
+  position: relative;
+  top:1%;
+  width:10%;
+  
+}
+.boton2{
+   background-color: rgb(255, 230, 54,.2);
+  position: absolute;
+  top: 350px; 
+  right: 200px;
+  padding: 10px 5px;
+  color: white;
+  z-index: 1;
+  border-radius: 32px;
+  width: 110px;
+  height: 22px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+}
+.boton2:hover{
+  background-color: #3B1A0A;
+
+}

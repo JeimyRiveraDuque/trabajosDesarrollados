@@ -1,0 +1,433 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow'PT Sans Narrow', sans-serif');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Balsamiq+Sans:wght@700&family=Open+Sans+Condensed:wght@300&family=PT+Sans+Narrow&family=Ubuntu+Condensed&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Balsamiq+Sans:wght@700&family=PT+Sans+Narrow&family=Ubuntu+Condensed&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Open+Sans:ital,wght@1,300&display=swap');
+/*------------------------------------------div de color gris---------------------*/
+
+.adquirir{
+  display: inline-block;
+  background-color: #750A14;
+  height: 345px;
+  width: 370px;
+  margin-right: 370px;
+  margin-left: 60px;
+  position: absolute;
+  top: 1px;
+  left: 80px;
+
+
+}
+.ventas{
+  display: inline-block;
+  background-color: #750A14;
+  height: 345px;
+  width: 370px;
+  position: absolute;
+  right: 175px;
+  top: 1px;
+
+}
+.distribucion img{
+
+  position: relative;
+  left: 580px;
+  z-index: 10;
+  top: -6px;
+  width: 230px;
+  height: 230px;
+
+}
+.adquirir img{
+  width: 220px;
+  height: 240px;
+  position: relative;
+  left:75px;
+  top: 30%;
+  z-index: 10;
+}
+
+.ventas img{
+  z-index: 10;
+  position: relative;
+  left: 70px;
+  top: 10px;
+
+}
+.distribucion{
+  width: 100%;
+  height: 345px;
+  background-color: #D8CCBA;
+  top: 80px;
+  position: relative;
+  
+  
+}
+
+.pasosexportar{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 42px;
+  color: #3B1A0A;
+
+}
+.adquirirp{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 42px;
+  color: white;
+
+}
+.puntosv{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 42px;
+  color: white;
+
+}
+#avion{
+
+background: red;
+
+}
+
+.pasosexportar2{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 42px;
+  color: #3B1A0A;
+
+}
+.adquirirp2{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 42px;
+  color: white;
+
+}
+.puntosv2{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 42px;
+  color: white;
+
+}
+/*-------------------------amarillo--------------------------*/
+.suscripcion{
+  width: 100%;
+  height: 195px;
+  background-color: #F6CD4A;
+  margin-top: 106px;
+}
+.fa{
+  width:6%;
+  position: relative;
+  top: 50px;
+  left: 14%;
+  cursor: pointer
+}
+
+.in{
+  width:6%;
+  border-radius: 41px;
+  position: relative;
+  top: 50px;
+  left: 15%;
+  cursor: pointer;
+}
+
+
+.suscripcion input[type=text]{
+
+float: right;
+width: 380px;
+height: 34px;
+position: relative;
+right: 148px;
+top: -40px;
+border:1px solid red;
+outline:none;
+color: red;
+
+}
+.suscripcion input[type=submit]{
+  float: right;
+width: 125px;
+height: 44px;
+position: relative;
+right: -234px;
+top: 8px;
+border-radius:5px;
+border-color: red;
+color: white;
+background: #e3001b;
+cursor: pointer;
+}
+.suscripcion input[type=submit]:hover{
+  background:#3B1A0A;
+  border-color:#3B1A0A;
+}
+.suscripcion .sus{
+
+   color: #3B1A0A;
+   width: 28%;
+   font-family: 'Open Sans Condensed', sans-serif;
+   font-size: 34px;
+   font-weight: 900;
+   position: relative;
+   left: 34%;
+   top: -28%;
+}
+.suscripcion .recibe{
+   color: #3B1A0A;
+   width: 23%;
+   position: relative;
+   left: 34%;
+   top: -28%;
+   font-family: 'Open Sans Condensed', sans-serif;
+   font-size: 16.5px;
+   
+}
+/*-------------------marron--------------------------*/
+
+.marron{
+  background-color: #3B1A0A;
+  width: 100%;
+  height: 343px;
+}
+.img{
+  width: 28.5%;
+  height: 343px;
+
+}
+.img #max{
+   width: 70%;
+   position: relative;
+   left: 28%;
+   top: 14%;
+}
+.img #bar{
+   width: 71%;
+   position: relative;
+   left: 28%;
+   top: 17%;
+}
+.cont{
+ width: 21%;
+ position: relative;
+ left: 28.5%;
+ top: -100%; 
+ height: 343px;
+
+}
+/*------------------------------------------------------------------contacto----------------------------------*/
+.cont .co{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    position: relative;
+    top: 5%;
+    left: 10%;
+    color:white;
+
+}
+ #num{
+  width: 100%;
+  position: relative;
+  top: 10%;
+  font-family: 'Open Sans Condensed', sans-serif;
+  left:8%;
+  font-size: 18px;
+  font-weight: 200;
+  color:#867268;
+  letter-spacing: 1px;
+  
+
+}
+#num1{
+  width: 100%;
+  position: relative;
+  top: 10%;
+  font-family: 'Open Sans Condensed', sans-serif;
+  left:8%;
+  font-size: 18px;
+  font-weight: 200;
+  color:#867268;
+  letter-spacing: 1px;
+}
+/*--------------------------------------------------termina----------------contacto----------------------------------*/
+/*--------------------------------------------------comenzo infor----------------------------------*/
+.info{
+  width: 21%;
+  position: relative;
+ left: 49%;
+ top: -200%;
+ height: 343px; 
+}
+.itt{
+font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    position: relative;
+    top: 5%;
+    left: 10%;
+    color:white;
+
+}
+#intt{
+  position: relative;
+  top: 10%;
+  font-family: 'Open Sans Condensed', sans-serif;
+  left:10%;
+  font-size: 16px;
+  font-weight: 200;
+  color:#867268;
+  letter-spacing: 3px;
+}
+/*------------------------------fin-----------------------informacion------------------------*/
+/*--------------------------------------------------comenzo publicidad----------------------------------*/
+.publi{
+  width: 30%;
+ position: relative;
+ left: 70%;
+ top: -300%;
+ height: 343px; 
+}
+.put{
+   font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    position: relative;
+    top: 5%;
+    left: 10%;
+    color:white;
+    
+}
+#im{
+  width: 20%;
+  position: relative;
+  left:65%;
+  top:-45px;
+}
+#im1{
+  width: 20%;
+  position: relative;
+  left:65%;
+  top:-125px;
+}
+#aroma{
+  width: 50%;
+  height: 94px;
+   background:rgb(53, 23, 9);
+   position: relative;
+   top:45px;
+   z-index: 20;
+   left: 60px;
+}
+#aroma p{
+  text-transform: uppercase;
+  font-size: 14px;
+  position: relative;
+  top: 10px;
+  left: 10px;
+  color: white;
+  font-family: 'Open Sans';
+  font-weight: 400;
+}
+.linea {
+  height: 1%;
+  max-width: 200px;
+  padding: 0;
+  margin: 20px auto 0 auto;
+  top: -10px;
+  position: relative;
+  background-color: rgb(177, 143, 147);
+}
+#relo{
+  position: relative;
+  top:3px;
+  right: 5%;
+  color:#B18F93;
+
+}
+#aroma  #fecha{
+  position: relative;
+  top:-10px;
+  left: 25px;
+  color:#B18F93;
+  text-transform: lowercase;
+}
+#are{
+  width: 50%;
+  height: 87px;
+ background:rgb(53, 23, 9);
+ position: relative;
+ top:-35px;
+ z-index: 20;
+ left: 60px;
+ font-style: normal;
+}
+#are p{
+  text-transform: uppercase;
+  font-size: 14px;
+  position: relative;
+  top: 10px;
+  left: 10px;
+  color: white;
+  font-family: 'Open Sans';
+  font-weight: 400;
+}
+#relo1{
+  position: relative;
+  top:5px;
+  right:3%;
+  color:#B18F93;
+
+}
+#are  #fecha1{
+  position: relative;
+  top:-2px;
+  left: 25px;
+  color:#B18F93;
+  text-transform: lowercase;
+}
+.linea1 {
+  height: 1%;
+  max-width: 200px;
+  padding: 0;
+  margin: 20px auto 0 auto;
+  top: -5px;
+  position: relative;
+  background-color: rgb(177, 143, 147);
+}
+
+/*------------------------------fin-----------------------publicidad------------------------*/
+/*-----------------------------------foteer----------------------------------------------------*/
+.blan{
+  width: 100%;
+  height: 8px;
+}
+.blan p{
+   color:#909497 ;
+   position: relative;
+   left: 5%;
+   top: 10px;
+   font-size: 17px;
+   font-weight: 700;
+   font-family: 'Open Sans Condensed', sans-serif;
+   letter-spacing: 1px;
+
+}
