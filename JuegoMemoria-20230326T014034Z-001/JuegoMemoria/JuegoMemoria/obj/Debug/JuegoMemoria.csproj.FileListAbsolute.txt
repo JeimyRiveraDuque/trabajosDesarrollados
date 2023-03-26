@@ -1,0 +1,13 @@
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\bin\Debug\JuegoMemoria.exe.config
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\bin\Debug\JuegoMemoria.exe
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\bin\Debug\JuegoMemoria.pdb
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\obj\Debug\JuegoMemoria.csprojAssemblyReference.cache
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\obj\Debug\JuegoMemoria.Properties.Resources.resources
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\obj\Debug\JuegoMemoria.csproj.GenerateResource.cache
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\obj\Debug\JuegoMemoria.csproj.CoreCompileInputs.cache
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\obj\Debug\JuegoMemoria.exe
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\obj\Debug\JuegoMemoria.pdb
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\obj\Debug\JuegoMemoria.form2.resources
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\obj\Debug\JuegoMemoria.Facil.resources
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\obj\Debug\JuegoMemoria.Normal.resources
+D:\jeimy1\trimestre4\carlos\2046353\JuegoMemoria\JuegoMemoria\obj\Debug\JuegoMemoria.Dificil.resources
